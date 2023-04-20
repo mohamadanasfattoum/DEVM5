@@ -6,7 +6,8 @@ body{font-family: 'Poppins', sans-serif;}
 
 .first-section{background-color: #C6FFE0;;}
 
-.first-section-card{}
+.first-section-card{background-color: white;}
+.dashed-first-card-arrow-right{border: 1px dashed #000}
 
 
 .haeding{
