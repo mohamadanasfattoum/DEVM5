@@ -6,8 +6,22 @@ body{font-family: 'Poppins', sans-serif;}
 
 .first-section{background-color: #C6FFE0;;}
 
-.first-section-card{background-color: white;}
+.first-section-card{background-color: white;
+    width: 284px;
+    height: 52px;
+}
+.heading-our-framework{font-weight: 400;}
+.heading-first-section{font-weight: 600;
+    font-size: 70px;
+}
+.p-first-section{font-size: 20px;}
+
+
 .dashed-first-card-arrow-right{border: 1px dashed #000}
+.heading-foto-card{
+height: 390px;
+width: 518px;}
+
 
 
 .haeding{
