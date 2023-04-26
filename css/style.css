@@ -22,8 +22,11 @@ body{font-family: 'Poppins', sans-serif;}
 height: 390px;
 width: 518px;}
 
+.third-section-img{height: 534px;
+    width: 628px;}
 
-
+.dashed-third-section-icon{border: 2px dashed #000}
+.icon-card{    margin: 100px;}
 .haeding{
     font-size: 61px;
     font-weight: 500;
