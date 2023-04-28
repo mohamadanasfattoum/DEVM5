@@ -54,4 +54,13 @@ color: white;}
       }
       
       
-      
+      .fifth-section{background-color: #19303D;
+        color: white;
+    }      
+    .img-fifth-section{width: 848px;
+        height: 594.64px;}
+        .btn-primary{    background-color: #13e5c0 !important;
+            border-color: #13e5c0 !important;
+            color: #19303d !important;}
+
+            .div-fifth-section{    margin-left: -17px;}
