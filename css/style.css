@@ -69,7 +69,15 @@ color: white;}
 /* animation */
 
 .div-img-fifth-section:hover .img-fifth-section {
-    transition: transform .3s;
+    
     transform: scale(1.1);
 }
-.img-fifth-section{border-radius: 10px}
+.img-fifth-section{
+    transition: all .3s  ;
+    border-radius: 10px;
+}
+
+.third-section-img:hover{
+    margin-top: 15px;
+    transition: all .3s  ;
+}
