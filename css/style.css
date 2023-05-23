@@ -81,3 +81,8 @@ color: white;}
     margin-top: 15px;
     transition: all .3s  ;
 }
+
+.third-section-icon-arrow:hover{
+    margin-top: -20px;
+    transition: all .2s
+}
