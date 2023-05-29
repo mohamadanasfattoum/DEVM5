@@ -86,3 +86,7 @@ color: white;}
     margin-top: -20px;
     transition: all .2s
 }
+
+.first-section:hover .first-section-card {margin-left: 360px;
+    transition: all .1s  ;
+}
